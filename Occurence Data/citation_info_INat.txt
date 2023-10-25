@@ -1,0 +1,22 @@
+<<gbif download>>
+  Your download is being processed by GBIF:
+  https://www.gbif.org/occurrence/download/0007860-230918134249559
+  Most downloads finish within 15 min.
+  Check status with
+  occ_download_wait('0007860-230918134249559')
+  After it finishes, use
+  d <- occ_download_get('0007860-230918134249559') %>%
+    occ_download_import()
+  to retrieve your download.
+Download Info:
+  Username: gabydanlo
+  E-mail: gabydanlo1991@gmail.com
+  Format: SIMPLE_CSV
+  Download key: 0007860-230918134249559
+  Created: 2023-09-26T14:46:52.918+00:00
+Citation Info:  
+  Please always cite the download DOI when using this data.
+  https://www.gbif.org/citation-guidelines
+  DOI: 10.15468/dl.usy4s2
+  Citation:
+  GBIF Occurrence Download https://doi.org/10.15468/dl.usy4s2 Accessed from R via rgbif (https://github.com/ropensci/rgbif) on 2023-09-26

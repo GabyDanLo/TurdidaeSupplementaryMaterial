@@ -1,0 +1,14 @@
+Task\ label=Final analisis for publication
+Task\ ID=2978205
+Tool=MRBAYES_XSEDE
+created\ on=2023-09-29 18:14:42.0
+JobHandle=NGBW-JOB-MRBAYES_XSEDE-E00B325DA8474281BEFFD2EF3811B61F
+RunNumber=1
+resource=popeye
+User\ ID=162299
+User\ Name=pablodanlo
+email=pablexworld@proton.me
+Output=(ALL_FILES,*,UNKNOWN,UNKNOWN,UNKNOWN)
+ChargeFactor=1.000000
+cores=8
+JOBID=1020852

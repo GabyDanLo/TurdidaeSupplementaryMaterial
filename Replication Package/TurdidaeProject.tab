@@ -1,0 +1,9 @@
+# phygeo project files
+# data save on: 2023-04-26T16:57:36-03:00
+dataset	path
+geomod	geomod-earthbyte.tab
+pixprior	prior.tab
+points	TurdidaePoints.tab
+ranges	KDE_Turdidae.tab
+timepix	timepix-earthbyte.tab
+trees	TurdidaeTree.tab

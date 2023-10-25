@@ -1,0 +1,5 @@
+1696314241 Mon Oct  2 23:24:01 PDT 2023
+Mon Oct 02 23:24:01 2023
+             JOBID PARTITION     NAME     USER    STATE       TIME TIME_LIMI  NODES NODELIST(REASON)
+           1020852      genx NGBW-JOB   cipres  RUNNING 2-22:59:25 4-04:00:00      1 pcn-9-34
+This file created by srun of: ./_batch_command.cmdline

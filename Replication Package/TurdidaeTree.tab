@@ -1,0 +1,312 @@
+# time calibrated phylogenetic trees
+# data saved on: 2023-10-04T14:39:42-03:00
+tree	node	parent	age	taxon
+turdidae	10	-1	19135011	
+turdidae	11	10	17284574	
+turdidae	12	11	2	Grandala coelicolor
+turdidae	13	11	3830227	
+turdidae	14	13	2	Sialia sialis
+turdidae	15	13	2987184	
+turdidae	16	15	2	Sialia currucoides
+turdidae	17	15	2	Sialia mexicana
+turdidae	18	10	18363406	
+turdidae	19	18	15354673	
+turdidae	20	19	5580369	
+turdidae	21	20	4433252	
+turdidae	22	21	1	Neocossyphus poensis
+turdidae	23	21	1	Neocossyphus rufus
+turdidae	24	20	1493886	
+turdidae	25	24	2	Stizorhina finschi
+turdidae	26	24	2	Stizorhina fraseri
+turdidae	27	19	7073864	
+turdidae	28	27	5159820	
+turdidae	29	28	1	Myadestes occidentalis
+turdidae	30	28	1	Myadestes unicolor
+turdidae	31	27	6376353	
+turdidae	32	31	5734582	
+turdidae	33	32	0	Myadestes townsendi
+turdidae	34	32	2398036	
+turdidae	35	34	0	Myadestes myadestinus
+turdidae	36	34	0	Myadestes obscurus
+turdidae	37	31	5928655	
+turdidae	38	37	1	Myadestes elisabeth
+turdidae	39	37	5476236	
+turdidae	40	39	1	Myadestes genibarbis
+turdidae	41	39	2485962	
+turdidae	42	41	2	Myadestes ralloides
+turdidae	43	41	621363	
+turdidae	44	43	1	Myadestes coloratus
+turdidae	45	43	1	Myadestes melanops
+turdidae	46	18	14203700	
+turdidae	47	46	13001503	
+turdidae	48	47	11269970	
+turdidae	49	48	2	Ixoreus naevius
+turdidae	50	48	2	Ridgwayia pinicola
+turdidae	51	47	12159559	
+turdidae	52	51	2	Hylocichla mustelina
+turdidae	53	51	11557825	
+turdidae	54	53	6751482	
+turdidae	55	54	1	Cichlopsis leucogenys
+turdidae	56	54	1459544	
+turdidae	57	56	2	Entomodestes coracinus
+turdidae	58	56	2	Entomodestes leucotis
+turdidae	59	53	8522263	
+turdidae	60	59	6915867	
+turdidae	61	60	2	Catharus fuscater
+turdidae	62	60	6242126	
+turdidae	63	62	1	Catharus mexicanus
+turdidae	64	62	5886397	
+turdidae	65	64	1	Catharus aurantiirostris
+turdidae	66	64	632082	
+turdidae	67	66	1	Catharus dryas
+turdidae	68	66	1	Catharus maculatus
+turdidae	69	59	7028590	
+turdidae	70	69	1	Catharus ustulatus
+turdidae	71	69	5299446	
+turdidae	72	71	1165418	
+turdidae	73	72	1	Catharus bicknelli
+turdidae	74	72	916961	
+turdidae	75	74	1	Catharus fuscescens
+turdidae	76	74	1	Catharus minimus
+turdidae	77	71	4976613	
+turdidae	78	77	2	Catharus frantzii
+turdidae	79	77	4474845	
+turdidae	80	79	2	Catharus gracilirostris
+turdidae	81	79	3064296	
+turdidae	82	81	2	Catharus guttatus
+turdidae	83	81	2	Catharus occidentalis
+turdidae	84	46	13581431	
+turdidae	85	84	13167718	
+turdidae	86	85	7148271	
+turdidae	87	86	2	Chlamydochaera jefferyi
+turdidae	88	86	2	Cochoa viridis
+turdidae	89	85	9842634	
+turdidae	90	89	8402281	
+turdidae	91	90	1	Zoothera mollissima
+turdidae	92	90	6644468	
+turdidae	93	92	2	Zoothera salimalii
+turdidae	94	92	2680885	
+turdidae	95	94	1	Zoothera dixoni
+turdidae	96	94	1	Zoothera griseiceps
+turdidae	97	89	8606230	
+turdidae	98	97	7554294	
+turdidae	99	98	1	Zoothera everetti
+turdidae	100	98	6597933	
+turdidae	101	100	1	Zoothera marginata
+turdidae	102	100	1	Zoothera monticola
+turdidae	103	97	7969248	
+turdidae	104	103	1	Zoothera heinrichi
+turdidae	105	103	5160703	
+turdidae	106	105	0	Zoothera andromedae
+turdidae	107	105	4514034	
+turdidae	108	107	758966	
+turdidae	109	108	0	Zoothera aurea
+turdidae	110	108	0	Zoothera dauma
+turdidae	111	107	3429775	
+turdidae	112	111	0	Zoothera margaretae
+turdidae	113	111	2034561	
+turdidae	114	113	0	Zoothera lunulata
+turdidae	115	113	1856546	
+turdidae	116	115	0	Zoothera heinei
+turdidae	117	115	0	Zoothera talaseae
+turdidae	118	84	12624222	
+turdidae	119	118	11903102	
+turdidae	120	119	8585593	
+turdidae	121	120	1	Geokichla sibirica
+turdidae	122	120	1	Geokichla wardii
+turdidae	123	119	7023898	
+turdidae	124	123	5809280	
+turdidae	125	124	4414182	
+turdidae	126	125	1	Geokichla camaronensis
+turdidae	127	125	1	Geokichla princei
+turdidae	128	124	4582576	
+turdidae	129	128	4179068	
+turdidae	130	129	1	Geokichla crossleyi
+turdidae	131	129	1	Geokichla gurneyi
+turdidae	132	128	3846819	
+turdidae	133	132	0	Geokichla oberlaenderi
+turdidae	134	132	0	Geokichla piaggiae
+turdidae	135	123	6371982	
+turdidae	136	135	5542777	
+turdidae	137	136	2	Geokichla guttata
+turdidae	138	136	2	Geokichla spiloptera
+turdidae	139	135	5372311	
+turdidae	140	139	2	Geokichla citrina
+turdidae	141	139	3968423	
+turdidae	142	141	3	Geokichla dohertyi
+turdidae	143	141	3648423	
+turdidae	144	143	2	Geokichla interpres
+turdidae	145	143	3441166	
+turdidae	146	145	3149249	
+turdidae	147	146	2	Geokichla peronii
+turdidae	148	146	2	Geokichla schistacea
+turdidae	149	145	2799863	
+turdidae	150	149	3	Geokichla cinerea
+turdidae	151	149	3	Geokichla erythronota
+turdidae	152	118	11267526	
+turdidae	153	152	2172627	
+turdidae	154	153	2	Turdus litsitsirupa
+turdidae	155	153	2	Turdus simensis
+turdidae	156	152	9300002	
+turdidae	157	156	2	Turdus philomelos
+turdidae	158	156	9075475	
+turdidae	159	158	2	Turdus viscivorus
+turdidae	160	158	7293312	
+turdidae	161	160	2185011	
+turdidae	162	161	2	Turdus abyssinicus
+turdidae	163	161	1778425	
+turdidae	164	163	2	Turdus helleri
+turdidae	165	163	2	Turdus roehli
+turdidae	166	160	7200002	
+turdidae	167	166	6759087	
+turdidae	168	167	5206233	
+turdidae	169	168	2	Turdus pelios
+turdidae	170	168	3793582	
+turdidae	171	170	2	Turdus olivaceofuscus
+turdidae	172	170	2	Turdus xanthorhynchus
+turdidae	173	167	6283949	
+turdidae	174	173	3772502	
+turdidae	175	174	1	Turdus bewsheri
+turdidae	176	174	1	Turdus libonyana
+turdidae	177	173	5084999	
+turdidae	178	177	2	Turdus mandarinus
+turdidae	179	177	4464692	
+turdidae	180	179	4166971	
+turdidae	181	180	1	Turdus ludoviciae
+turdidae	182	180	1	Turdus tephronotus
+turdidae	183	179	593936	
+turdidae	184	183	1	Turdus olivaceus
+turdidae	185	183	1	Turdus smithi
+turdidae	186	166	5700002	
+turdidae	187	186	5531225	
+turdidae	188	187	5176875	
+turdidae	189	188	3	Turdus iliacus
+turdidae	190	188	4717090	
+turdidae	191	190	3	Turdus merula
+turdidae	192	190	3804177	
+turdidae	193	192	3	Turdus menachensis
+turdidae	194	192	3	Turdus turdoides
+turdidae	195	187	4335101	
+turdidae	196	195	3561204	
+turdidae	197	196	155931	
+turdidae	198	197	2	Turdus kessleri
+turdidae	199	197	2	Turdus maximus
+turdidae	200	196	3277530	
+turdidae	201	200	2	Turdus pilaris
+turdidae	202	200	3185967	
+turdidae	203	202	1734892	
+turdidae	204	203	2	Turdus albocinctus
+turdidae	205	203	2	Turdus rubrocanus
+turdidae	206	202	1937905	
+turdidae	207	206	3	Turdus torquatus
+turdidae	208	206	1056606	
+turdidae	209	208	448722	
+turdidae	210	209	3	Turdus atrogularis
+turdidae	211	209	3	Turdus ruficollis
+turdidae	212	208	645647	
+turdidae	213	212	3	Turdus mupinensis
+turdidae	214	212	307427	
+turdidae	215	214	3	Turdus eunomus
+turdidae	216	214	3	Turdus naumanni
+turdidae	217	195	4128580	
+turdidae	218	217	2965975	
+turdidae	219	218	2138668	
+turdidae	220	219	3	Turdus boulboul
+turdidae	221	219	3	Turdus simillimus
+turdidae	222	218	1013831	
+turdidae	223	222	548658	
+turdidae	224	223	3	Turdus cardis
+turdidae	225	223	3	Turdus hortulorum
+turdidae	226	222	352519	
+turdidae	227	226	2	Turdus dissimilis
+turdidae	228	226	2	Turdus unicolor
+turdidae	229	217	3601232	
+turdidae	230	229	2	Turdus niveiceps
+turdidae	231	229	2295844	
+turdidae	232	231	2	Turdus poliocephalus
+turdidae	233	231	1347011	
+turdidae	234	233	784094	
+turdidae	235	234	2	Turdus celaenops
+turdidae	236	234	2	Turdus chrysolaus
+turdidae	237	233	975363	
+turdidae	238	237	1	Turdus pallidus
+turdidae	239	237	750570	
+turdidae	240	239	1	Turdus feae
+turdidae	241	239	1	Turdus obscurus
+turdidae	242	186	5300002	
+turdidae	243	242	3034051	
+turdidae	244	243	2	Turdus aurantius
+turdidae	245	243	2	Turdus plumbeus
+turdidae	246	242	5267565	
+turdidae	247	246	2677901	
+turdidae	248	247	2432017	
+turdidae	249	248	2	Turdus infuscatus
+turdidae	250	248	2	Turdus nigrescens
+turdidae	251	247	432672	
+turdidae	252	251	3	Turdus migratorius
+turdidae	253	251	3	Turdus rufitorques
+turdidae	254	246	5176425	
+turdidae	255	254	2	Turdus plebejus
+turdidae	256	254	5108215	
+turdidae	257	256	4389690	
+turdidae	258	257	2	Turdus jamaicensis
+turdidae	259	257	2	Turdus swalesi
+turdidae	260	256	5048478	
+turdidae	261	260	2	Turdus lherminieri
+turdidae	262	260	4821841	
+turdidae	263	262	1	Turdus leucops
+turdidae	264	262	4400001	
+turdidae	265	264	3853522	
+turdidae	266	265	1	Turdus fulviventris
+turdidae	267	265	3075446	
+turdidae	268	267	3035930	
+turdidae	269	268	1	Turdus reevei
+turdidae	270	268	2766207	
+turdidae	271	270	2	Turdus chiguanco
+turdidae	272	270	2	Turdus nigriceps
+turdidae	273	267	2264192	
+turdidae	274	273	1	Turdus serranus
+turdidae	275	273	2176081	
+turdidae	276	275	2	Turdus fuscater
+turdidae	277	275	2	Turdus olivater
+turdidae	278	264	4356863	
+turdidae	279	278	4129058	
+turdidae	280	279	1	Turdus falcklandii
+turdidae	281	279	3747653	
+turdidae	282	281	1	Turdus subalaris
+turdidae	283	281	2419125	
+turdidae	284	283	1	Turdus eremita
+turdidae	285	283	1406337	
+turdidae	286	285	2	Turdus amaurochalinus
+turdidae	287	285	385133	
+turdidae	288	287	2	Turdus ignobilis
+turdidae	289	287	2	Turdus maranonicus
+turdidae	290	278	4145503	
+turdidae	291	290	2	Turdus flavipes
+turdidae	292	290	4086358	
+turdidae	293	292	4068281	
+turdidae	294	293	2853036	
+turdidae	295	294	2	Turdus albicollis
+turdidae	296	294	2	Turdus assimilis
+turdidae	297	293	4008556	
+turdidae	298	297	2	Turdus rufopalliatus
+turdidae	299	297	3876088	
+turdidae	300	299	2	Turdus lawrencii
+turdidae	301	299	2	Turdus obsoletus
+turdidae	302	292	3797983	
+turdidae	303	302	3468716	
+turdidae	304	303	2	Turdus leucomelas
+turdidae	305	303	1838628	
+turdidae	306	305	2	Turdus fumigatus
+turdidae	307	305	2	Turdus hauxwelli
+turdidae	308	302	1890078	
+turdidae	309	308	2	Turdus rufiventris
+turdidae	310	308	1411705	
+turdidae	311	310	2	Turdus haplochrous
+turdidae	312	310	1342214	
+turdidae	313	312	2	Turdus nudigenis
+turdidae	314	312	1289282	
+turdidae	315	314	2	Turdus sanchezorum
+turdidae	316	314	1234816	
+turdidae	317	316	2	Turdus grayi
+turdidae	318	316	2	Turdus maculirostris
